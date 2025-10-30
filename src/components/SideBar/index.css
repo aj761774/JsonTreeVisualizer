@@ -1,0 +1,36 @@
+.sidebar {
+  width: 360px;
+  padding: 18px;
+  background: #0f172a;
+  color: white;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.generate-button,
+.fitview-button {
+  width: 300px;
+  margin-top: 12px;
+  padding: 10px;
+  background: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 8px;
+}
+
+.fitview-button {
+  background: #7c3aed;
+}
+
+.notes {
+  margin-top: 18px;
+  font-size: 12px;
+  color: #94a3b8;
+  width: 300px;
+}
+
+.notes-list {
+  color: #94a3b8;
+}

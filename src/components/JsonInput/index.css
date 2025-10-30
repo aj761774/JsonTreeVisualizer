@@ -1,0 +1,10 @@
+.json-input {
+  width: 300px;
+  min-height: 220px;
+  padding: 10px;
+  font-family: 'monospace';
+  border-radius: 8px;
+  border: 1px solid #334155;
+  background: #0b1220;
+  color: white;
+}
